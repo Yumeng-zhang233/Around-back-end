@@ -1,4 +1,4 @@
-package Around
+package main
 
 import (
 	"context"

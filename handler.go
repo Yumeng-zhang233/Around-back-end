@@ -1,4 +1,5 @@
-package Around
+package main
+
 
 import (
 	"encoding/json"
