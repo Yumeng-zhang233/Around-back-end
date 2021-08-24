@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	BUCKET_NAME = "sean-bucket"
+	BUCKET_NAME = "s-bucket"
 )
 
 func saveToGCS(r io.Reader, objectName string) (string, error) {
